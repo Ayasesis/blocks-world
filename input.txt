@@ -1,0 +1,10 @@
+initial state
+L0: [Table] j i c
+L1: [Table] a e d
+L2: [Table] b f 
+L3: [Table] g h
+final state
+L0: [Table] e c a
+L1: [Table] g h j i 
+L2: [Table] d b
+L3: [Table] f
